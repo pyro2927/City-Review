@@ -13,5 +13,6 @@
 ### 5-8 Club
 
 Not the be confused with [Bar 508](http://www.bar508.com/), the [5-8 Club](http://www.5-8club.com/) serves up the Juicy Lucy with American, Amablu Blue, Petter, or Swiss cheese.  They have three locations scattered around Minnesota.  If you want to try something a little different, you can also order up the Saucy Sally, which claims to be "Lucy's younger sister".  They also have a full menu, so if you're with a crowd you'll probably have an easier time pleasing everyone here rather than with the limited menu at Matt's.
+![](../img/5-8.png)
 
 ## American
