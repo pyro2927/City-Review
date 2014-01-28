@@ -6,6 +6,7 @@
   * [About Minneapolis](msp/about.md)
   - - - -
   * [Dining](msp/dining.md)
+  * [Drinks](msp/drinks.md)
 
 [Milwaukee]()
 
