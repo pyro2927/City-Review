@@ -3,6 +3,8 @@
 [Home](index.md)
 [Minneapolis/Saint Paul]()
 
+  * [About Minneapolis](msp/about.md)
+  - - - -
   * [Dining](msp/dining.md)
 
 [Milwaukee]()
@@ -13,4 +15,4 @@
 
   * [Dining](chi/dining.md)
 
-[gimmick:theme](amelia)
+[gimmick:theme](spacelab)
