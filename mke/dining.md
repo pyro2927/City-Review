@@ -13,3 +13,17 @@ Many claim that [Sobelmans](http://www.milwaukeesbestburgers.com/) is the true o
 
 Marketed as "Happiness, w/ a side of Burgers.", [AJ Bombers](http://ajbombers.com/) is the proud winner of the Travel Channel's FOOD WARS.  Their menu touts 'The Milwaukee Burger', 1/4lb of ground beef, local Wisconsin colby cheese, Berkshire bacon, all topped with irresistible Schlitz onions.  While the Milwaukee is the burger that won them FOOD WARS, the other burgers are also worth considering.  While many first scoff at the Barrie, most tend to enjoy the chunky 'pnut butter' bacon cheeseburger after trying it.
 ![](img/ajbombers.png)
+
+## American
+
+It's hard to draw a line where the 'Burgers' category ends, and where 'American' begins, especially in Milwaukee.  The listings above are known for their burgers, whereas the ones below sell burgers but are more known for their general atmosphere and generally have a larger variety of items on their menus.
+
+### Stubby's
+
+[Stubby's Gastropub](http://stubbyspubandgrub.com/) serves up fresh meals made with locally-sourced ingredients.  Sporting a massive 53 ever-rotating beers-on-tap, you can enjoy a wide variety of beer.  If you're more of a beer aficionado, you might want to consider signing up for [Club 53](http://www.stubclub53.com/) where you can receive VIP beer tappings, beer dinner discounts, and more!  With a range of salads, sandwiches, and 'fill-ups', you're bound to find something to appease your palate.  As the evening rolls on, make sure to check out the giant Jenga set they have near the front entrance!
+![](img/stubbys.png)
+
+### Miss Katie's Diner
+
+Tucked away just behind the Southwestern corner of Marquette University's campus, [Miss Katie's](http://www.miss-katies.com/) sits serving up locals the homecooked grub they've grown to love.  It also makes a good pre-basketball game spot, as they offer free shuttle service to all home Milwaukee Bucks & Marquette Men's Basketball games.
+![](img/katies.jpg)
