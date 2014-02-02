@@ -17,3 +17,4 @@
   * [Dining](chi/dining.md)
 
 [gimmick:theme](spacelab)
+[gimmick:forkmeongithub(color: 'darkblue', position: 'right')](http://www.github.com/pyro2927/City-Review)
