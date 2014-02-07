@@ -33,7 +33,7 @@ Those who can't do, brew.  Those who can't brew just sell stuff someone else mad
 Ever want to sit at a bar made out of a small pirate ship?  If so, [The News Room](http://thenewsroommpls.com/) should be on your radar.  If you order top shelf liquor, the bartenders have to scale the rope ladder on the side of the ship just to get it for you.  Be careful at the bow, as the bar isn't completely level and you can easily knock your off-balance drink over.  The bathrooms feel like a funhouse filled with mirrors, and it gets even more intense after a few rounds.  Neither the men's nor women's restrooms are marked, and the fact that they are both at the end of a zig-zag-y hallway doesn't make it any easier to tell them apart.  Being in downtown means the drinks are a little more expensive, but if you feel like barhopping it is a great place to start your night!
 ![](img/newsroom.jpg)
 
-### Bit's Pub
+### Brit's Pub
 
 Opening in 1990, [Brit's](http://www.britspub.com/) has grown from a small two-room tavern into a much large institution.  As their name hints at, they love everything British, from rugby and football (not the American kind) to [lawn bowling](http://www.britspub.com/lawn_bowling/index.php?strWebAction=availability), which they have on the roof.  They even have a Lawn Bowling Club, which has a yearly league that everyone competes in!  Sadly, the wait list for a team is currently 10-years long, so don't think you'll be playing anytime soon.
 ![](img/brits.jpg)
