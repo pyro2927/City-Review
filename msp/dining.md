@@ -60,3 +60,9 @@ While it doesn't house any mythical beasts, [George & the Dragon](http://www.gan
 
 The [Butcher and the Board](http://butcherandtheboar.com/) is home to some great cured and prepared meats.  Duck Breast, Double Cut Berksire Pork Chop, Rooster Rillette, Wild Board Hot Link, Green Chorizo... the list never ends.  At the West end of downtown Minneapolis, you're just a straight shot up Hennepin Ave away from a plethora of bars and night clubs.  While it is a bit higher up on the price scale, meat lovers will find a small slice of heaven on B&tB's menu.
 ![](img/bandtb.png)
+
+## Dessert
+
+### Sebastian Joe's
+
+Hands down, the best ice cream in the Twin Cities.  Hand-packed and home-made, Joe's has signature flavors like "Nicolette Pothole", a delicious swirl of chocolate and fudge.  Expect to wait on summer days, as its popularity draws quite the crowd!

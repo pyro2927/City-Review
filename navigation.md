@@ -7,6 +7,7 @@
   - - - -
   * [Dining](msp/dining.md)
   * [Drinks](msp/drinks.md)
+  * [Entertainment](msp/entertainment.md)
 
 [Milwaukee]()
 
