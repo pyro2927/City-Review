@@ -66,3 +66,4 @@ The [Butcher and the Board](http://butcherandtheboar.com/) is home to some great
 ### Sebastian Joe's
 
 Hands down, the best ice cream in the Twin Cities.  Hand-packed and home-made, Joe's has signature flavors like "Nicolette Pothole", a delicious swirl of chocolate and fudge.  Expect to wait on summer days, as its popularity draws quite the crowd!
+![](img/sebastianjoes.jpg)
