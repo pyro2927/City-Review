@@ -67,3 +67,13 @@ The [Butcher and the Board](http://butcherandtheboar.com/) is home to some great
 
 Hands down, the best ice cream in the Twin Cities.  Hand-packed and home-made, Joe's has signature flavors like "Nicolette Pothole", a delicious swirl of chocolate and fudge.  Expect to wait on summer days, as its popularity draws quite the crowd!
 ![](img/sebastianjoes.jpg)
+
+### Izzy's
+
+Sometimes deciding what flavor of ice cream to get is hard, and that's where [Izzy's](http://izzysicecream.com/) has got you covered.  Every size above 'Kiddie' comes with an Izzy Scoop on top, a 3/4-ounce scoop of any flavor you like.  It makes tasting new flavors less of a hassle, as you don't need to commit to a whole scoop to try it out!  Their flavors rotate on a regular basis, but they're updated every 3 minutes [online](http://flavorup.izzysicecream.com/flavor-grid/web/minneapolis).
+![](img/izzys.jpg)
+
+### Tom's Popcorn Shop
+
+Stepping into [Tom's](http://tomspopcornshop.com/) is like stepping back in time.  A wave of nostalgia washes over customers with the bright colors and signage inside, as well as the reminder that it's a cash-only business.  The flavors of popcorn available is amazing, especially the Sea Salt Double Caramel.  They also boast some of the best malts and milk-shakes in town!
+![](img/toms.jpg)
