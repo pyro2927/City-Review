@@ -27,3 +27,10 @@ It's hard to draw a line where the 'Burgers' category ends, and where 'American'
 
 Tucked away just behind the Southwestern corner of Marquette University's campus, [Miss Katie's](http://www.miss-katies.com/) sits serving up locals the homecooked grub they've grown to love.  It also makes a good pre-basketball game spot, as they offer free shuttle service to all home Milwaukee Bucks & Marquette Men's Basketball games.
 ![](img/katies.jpg)
+
+## Seafood
+
+### Barnacle Bud's
+
+[Barnacle Bud's](http://barnacle-buds.com/) is a bit of a hidden gem, not only because people don't know about it, but also because it's tucked behind some industrial buildings.  They have Bloody Marys, an outdoor oyster bar, and have been voted Milwaukee's best spot for day drinking!
+![](img/buds.jpg)
