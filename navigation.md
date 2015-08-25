@@ -14,6 +14,7 @@
 
   * [Dining](mke/dining.md)
   * [Drinks](mke/drinks.md)
+  * [Activities](mke/activities.md)
 
 [Chicago]()
 
