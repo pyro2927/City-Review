@@ -1,6 +1,5 @@
 # Entertainment
 
-
 ### Red Rocks Amphitheater
 
 ### Summit Music Hall
